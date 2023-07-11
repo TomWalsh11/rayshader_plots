@@ -9,7 +9,7 @@ library(colorspace)
 library(tigris)
 library(stars)
 library(MetBrewer)
-testing
+
 # Load and combine Irish and UK data
 roi_data <- st_read('kontur_population_IE_20220630.gpkg')
 uk_data <- st_read('kontur_population_GB_20220630.gpkg')
