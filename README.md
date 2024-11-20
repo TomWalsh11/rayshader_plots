@@ -44,3 +44,13 @@ To get started with the **rayshader-plots** repository:
 1. Clone the repository:
    ```bash
    git clone https://github.com/TomWalsh11/rayshader-plots.git
+
+---
+
+## **📜 License**
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## **💬 Contact**
+If you have questions, feel free to open an issue or contact me at [tdjwalsh@hotmail.com](mailto:tdjwalsh@hotmail.com).
