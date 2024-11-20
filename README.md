@@ -1,6 +1,6 @@
 # **rayshader-plots**
 
-This repository contains code for creating visually appealing maps and geospatial plots using the **[rayshader](https://github.com/tylermorganwall/rayshader)** package developed by **Tyler Morgan-Wall**. The **rayshader** package allows for 3D visualization of geospatial data, often used for terrain modeling, population density maps, and other data-driven geospatial visualizations.
+This repository contains code for creating visually appealing maps and geospatial plots using the **[rayshader](https://github.com/tylermorganwall/rayshader)** package developed by **Tyler Morgan-Wall**. The **rayshader** package allows for 3D visualisation of geospatial data, often used for terrain modeling, population density maps, and other data-driven geospatial visualisations.
 
 ---
 
@@ -8,7 +8,7 @@ This repository contains code for creating visually appealing maps and geospatia
 
 ### **Ireland Population Density**
 
-A visualization of Ireland’s population density using the **rayshader** package.
+A visualisation of Ireland’s population density using the **rayshader** package.
 
 - [View the scripts here](plots/ireland)
   
@@ -19,7 +19,7 @@ A visualization of Ireland’s population density using the **rayshader** packag
 ## **📋 Features**
 
 - Create 3D terrain maps and plots.
-- Generate customizable visualizations using geospatial data.
+- Generate customisable visualisations using geospatial data.
 - Explore various plotting styles and configurations (e.g., color schemes, terrain types).
 - Includes example plots like population density and terrain elevation maps.
 
