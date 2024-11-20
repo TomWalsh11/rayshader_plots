@@ -10,7 +10,7 @@ This repository contains code for creating visually appealing maps and geospatia
 
 A visualization of Ireland’s population density using the **rayshader** package.
 
-- [View the plot here](plots/ireland)
+- [View the scripts here](plots/ireland)
   
 ![Ireland Population Density](linked_images/ireland_pop_density.jpg)
 
