@@ -1,4 +1,4 @@
-# **rayshader-plots**
+# **🌍 Geospatial Visualizations with rayshader**
 
 This repository contains code for creating visually appealing maps and geospatial plots using the **[rayshader](https://github.com/tylermorganwall/rayshader)** package developed by **Tyler Morgan-Wall**. The **rayshader** package allows for 3D visualisation of geospatial data, often used for terrain modeling, population density maps, and other data-driven geospatial visualisations.
 
